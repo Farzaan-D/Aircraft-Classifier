@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
+gradio
+ultralytics
+grad-cam
+timm
+tqdm
+requests
+scipy

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Data and Checkpoints
+data/
+checkpoints/
+*.pth
+*.pt
+yolov8n.pt
+
+# MacOS
+.DS_Store
